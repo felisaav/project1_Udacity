@@ -1,22 +1,23 @@
-# project1_Udacity
-1.Blog about this project
+# Project1_Udacity
+## 1.Blog about this project
 https://felisaav.medium.com/a-seattle-deep-dive-in-airbnb-homes-48a5a684d1f0
 
-2.Libraries: I use the following libraries from python:
+## 2.Libraries:
+I use the following libraries from python:
 •	Numpy
 •	Pandas
 •	Seaborn
 •	Sklearn (LinearRegression, train_test_split, r2_score)
 
-3.	motivation for the project
+## 3.	Motivation for the project
 The purpose of this project is to try to understand public information available from Airbnb that allows us to make better decision in terms of understand availability, prices and how to predict home prices.
 
-4.	files in the repository with a small description of each
+## 4.	files in the repository with a small description of each
 In this project, I worked with the following files:
 •	calendar_Seattle.csv / calendar_Boston.csv: including listing id and the price and availability for that day
 •	listing_Seattle.csv: including full descriptions and average review score
 
-5.	summary of the results of the analysis 
+## 5.	summary of the results of the analysis 
 We look at Airbnb data from Seattle and Boston to answer 3 questions related with home availability, pricing evolution and try to predict prices given a set of features.
 Some useful insights were to find that in Boston the availability was lower than Seattle and many hosts don’t have availability during a year.
 Another important point was that Boston was a more expensive city to rent a home, also Boston homes showed more variability of prices (and related with availability), when availability went down, prices went up.
